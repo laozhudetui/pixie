@@ -179,7 +179,7 @@
     "vis-data": "^6.2.1",
     "vis-network": "^7.7.1",
     "vis-util": "^4.0.0",
-    "yaml": "^1.6.0"
+    "yaml": "^2.2.2"
   },
   "engines": {
     "node": ">=10.0.0"
