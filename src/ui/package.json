@@ -110,7 +110,7 @@
     "@pixie-labs/components": "1.0.0",
     "@welldone-software/why-did-you-render": "^4.3.1",
     "announcekit-react": "^2.1.3",
-    "auth0-js": "^9.13.4",
+    "auth0-js": "^9.20.2",
     "axios": "0.21.1",
     "axios-mock-adapter": "^1.18.1",
     "client-oauth2": "^4.3.3",
